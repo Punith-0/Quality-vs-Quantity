@@ -6,7 +6,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Research](https://img.shields.io/badge/Type-Research-blueviolet)
+![Project](https://img.shields.io/badge/Project-ML-green)
+![Academic](https://img.shields.io/badge/Use-Academic-orange)
 
 ---
 ## 📌 Overview
