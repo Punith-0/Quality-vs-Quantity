@@ -1,0 +1,9 @@
+dataset,data_size,method,acc_mean
+imdb,0.2,stopwords,0.8395
+imdb,0.5,lemmatization,0.8583333333333333
+imdb,0.8,raw,0.8593333333333334
+imdb,0.99,raw,0.8602693602693603
+twitter,0.2,both,0.9325000000000001
+twitter,0.5,both,0.9399333333333333
+twitter,0.8,both,0.9391666666666666
+twitter,0.99,both,0.9414814814814815
