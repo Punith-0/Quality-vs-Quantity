@@ -1,0 +1,7 @@
+scikit-learn
+pandas 
+numpy 
+nltk
+matplotlib
+# "https://raw.githubusercontent.com/laxmimerit/All-CSV-ML-Data-Files-Download/master/IMDB-Dataset.csv"
+# "https://raw.githubusercontent.com/dD2405/Twitter_Sentiment_Analysis/master/train.csv"
